@@ -6,19 +6,27 @@
 ![Assembler: Kick Assembler](https://img.shields.io/badge/assembler-Kick%20Assembler-orange?style=flat)
 
 <table align="center">
-<tr>
-<td align="center">
-<img src="assets/images/screenshots/westminster-typeface-c64.gif" alt="Westminster typeface running on the Commodore 64" height="260"><br>
-<sub><b>Commodore 64</b></sub>
-</td>
-<td align="center">
-<img src="assets/images/screenshots/westminster-typeface-vic20.gif" alt="Westminster typeface running on the Commodore VIC-20" height="260"><br>
-<sub><b>Commodore VIC-20</b></sub>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <p><sub><b>Commodore 64</b></sub></p>
+      <img src="assets/images/screenshots/westminster-typeface-c64.gif" alt="Westminster typeface running on the Commodore 64" height="260">
+    </td>
+      <td align="center">
+      <p><sub><b>Commodore VIC-20</b></sub></p>
+      <img src="assets/images/screenshots/westminster-typeface-vic20.gif" alt="Westminster typeface running on the Commodore VIC-20" height="260">
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <br>
+      <img src="assets/images/screenshots/c64-4.png" alt="Westminster typeface running on the Commodore 64" height="260">
+    </td>      
+      <td align="center">
+      <br>
+      <img src="assets/images/screenshots/vic20-4.png" alt="Westminster typeface running on the Commodore VIC-20" height="260">
+    </td>
+  </tr>
 </table>
-
-<br>
 
 Tiny, BASIC-launchable `.prg` installers that load a custom 8×8 **Westminster** typeface into the Commodore machine's custom character sets. **Westminster** typeface is the 1960s MICR / "computer cheque" face. There is a separate installer for the **Commodore 64** and unexpanded **Commodore VIC-20**.
 
